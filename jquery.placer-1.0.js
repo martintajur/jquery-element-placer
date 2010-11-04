@@ -1,6 +1,6 @@
 /*!
  * jQuery element placer 1.0
- *
+ * 
  * Copyright (c) 2010 Martin Tajur (martin@tajur.ee)
  * Licensed under the GPL license and MIT:
  *   http://www.opensource.org/licenses/GPL-license.php
