@@ -18,8 +18,8 @@ Usage examples
 Parameters
 ----------
 
-* `top`: desired top offset of the placeable element in pixels (default 20)
-* `left`: desired left offset of the placeable element in pixels (default 20)
-* `margin`: desired margin from the viewport edges in pixels (default 0)
-* `area`: desired viewport area in which the element should be visible in (either 'window' or 'document', default 'window')
+* `top`: desired top offset of the placeable element in pixels (default `20`)
+* `left`: desired left offset of the placeable element in pixels (default `20`)
+* `margin`: desired margin from the viewport edges in pixels (default `0`)
+* `area`: desired viewport area in which the element should be visible in (either `'window'` or `'document'`, default `'window'`)
 
