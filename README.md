@@ -5,14 +5,19 @@ A nifty little helper that enables you to place elements into a viewport in a wa
 
 Copyright (c) 2010 Martin Tajur (martin@tajur.ee)
 Licensed under the GPL license and MIT:
+
 * http://www.opensource.org/licenses/GPL-license.php
 * http://www.opensource.org/licenses/mit-license.php
  
-Usage examples:
+Usage examples
+--------------
+
     $('.element').place({ top: 400, left: 400 });
     $('.element').place({ top: 400, left: 400, area: 'document' });
  
-Parameters:
+Parameters
+----------
+
 * `top`: desired top offset of the placeable element in pixels (default 20)
 * `left`: desired left offset of the placeable element in pixels (default 20)
 * `margin`: desired margin from the viewport edges in pixels (default 0)
